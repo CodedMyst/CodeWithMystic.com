@@ -7,5 +7,4 @@ ko_fi: mysticcoder  # Ko-fi username
 tidelift: mystic-package  # Tidelift project slug
 community_bridge: mystic-project  # Linux Foundation ID
 liberapay: mystic_community  # Liberapay username
-otechie: mystic-dev  # Otechie username
 custom: ["https://mywebsite.com/donate"]  # Custom donation link
